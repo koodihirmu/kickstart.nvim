@@ -136,6 +136,8 @@ return {
       },
     }
 
+    -- NOTE: if cpp debugging doesn't work check with :Mason that the debugger is installed
+
     -- setup cpp adapter
     -- dap.adapters.cpptools = {
     --   name = 'cpptools',
